@@ -7,7 +7,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo '202206062600'
-                echo 'changed'
+                echo 'really changed'
             }
         }
   }
