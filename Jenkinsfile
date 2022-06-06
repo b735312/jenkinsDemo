@@ -9,6 +9,7 @@ pipeline {
                 echo '202206062600'
                 echo 'really changed'
                 echo 'yeah'
+                echo 'sex'
             }
         }
   }
